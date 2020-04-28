@@ -1,1 +1,2 @@
 My personal practises on Hibernate framework.
+version 1
