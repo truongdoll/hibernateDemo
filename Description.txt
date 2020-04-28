@@ -1,2 +1,7 @@
 My personal practises on Hibernate framework.
-version 1
+
+version 2.
+
+done changes
+
+
